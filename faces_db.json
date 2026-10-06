@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Rafi",
+    "age": "23",
+    "templates": [
+      {
+        "file": "encodings\\Rafi_0_1791313383462.npy",
+        "quality": 0.7266327980450806
+      }
+    ]
+  },
+  {
+    "name": "oapi",
+    "age": "20",
+    "templates": [
+      {
+        "file": "encodings\\oapi_0_1791313438490.npy",
+        "quality": 0.2861435386859782
+      }
+    ]
+  }
+]
